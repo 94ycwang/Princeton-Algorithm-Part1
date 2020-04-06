@@ -10,4 +10,4 @@ My weekly projects for Princeton Algorithms Part 1 MOOC
 * Week 3: Mergesort and Quicksort -- Collinear
 
 ## Reference
-[[1] Algorithms, Part - Princeton University](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+[[1] Algorithms, Part 1 - Princeton University](https://www.coursera.org/learn/algorithms-part1/home/welcome)
