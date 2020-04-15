@@ -9,7 +9,7 @@ My weekly projects for Princeton Algorithms Part 1 MOOC
 
 * Week 3: Mergesort and Quicksort -- Collinear
 
-* Week 4: Priority Queue -- 8 puzzle
+* Week 4: Priority Queues and Elementary Symbol Tables -- 8 puzzle
 
 ## Reference
 [[1] Algorithms, Part 1 - Princeton University](https://www.coursera.org/learn/algorithms-part1/home/welcome)
