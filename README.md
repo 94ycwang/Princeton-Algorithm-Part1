@@ -11,5 +11,7 @@ My weekly projects for Princeton Algorithms Part 1 MOOC
 
 * Week 4: Priority Queues and Elementary Symbol Tables -- 8 puzzle
 
+* Week 5: Balanced Search Trees and Geometric Applications of BSTs -- Kd-Trees
+
 ## Reference
 [[1] Algorithms, Part 1 - Princeton University](https://www.coursera.org/learn/algorithms-part1/home/welcome)
