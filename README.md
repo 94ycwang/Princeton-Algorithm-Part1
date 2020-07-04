@@ -1,7 +1,8 @@
-# Princeton-Algorithm-Part1
-My weekly projects for Princeton Algorithms Part 1 MOOC
+# Princeton-Algorithm-Part1 & Part2
+My weekly projects for Princeton Algorithms Part1 and Part2 MOOC
 
 ## Contents
+### PartI
 
 * Week 1: Union-Find -- Percolation
 
