@@ -28,4 +28,5 @@ My weekly projects for Princeton Algorithms Part1 and Part2 MOOC
 
 ## Reference
 [[1] Algorithms, Part 1 - Princeton University](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+
 [[2] Algorithms, Part 2 - Princeton University](https://www.coursera.org/learn/algorithms-part2/home/welcome)
